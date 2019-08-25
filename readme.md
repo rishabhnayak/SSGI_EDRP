@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kamleshsahu/SSGI_EDRP/master/readme/Attendance Details.png" width="300">
+<img src="https://raw.githubusercontent.com/kamleshsahu/SSGI_EDRP/master/readme/Attendance20%Details.png" width="300">
 <img src="https://raw.githubusercontent.com/rishabhnayak/Indian-Railway-Train-Status/master/readme/Train%20Between%20Two%20Stations.png" width="300">
 <img src="https://raw.githubusercontent.com/rishabhnayak/Indian-Railway-Train-Status/master/readme/Track%20Your%20Location%20Popup.png" width="300">
 <img src="https://raw.githubusercontent.com/rishabhnayak/Indian-Railway-Train-Status/master/readme/Station%20Status.png" width="300">
